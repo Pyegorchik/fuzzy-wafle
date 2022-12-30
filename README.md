@@ -9,15 +9,24 @@ This is my first educational project. So, please, be patient and allow me to mak
 The whole program is written in Rust because I want to become Rust developer and I am learning how to use it. Yep, it's nor super efficient and productive to wtrite such app in Rust. However, it's fun!
 
 # Plans:
-1.Make random choosing \n
-2.Make opportunity to add new slots \n
-3.Make web version \n
-4.Add anime \n
+1.Make random choosing
+
+2.Make opportunity to add new slots
+
+3.Make web version
+
+4.Add anime
+
 5.Sleep
+
 6.Dota 2
+
 7.Make wheel(?)
+
 8.Add wheel to the website
+
 9.Try to replicate other parts of https://pointauc.ru/ .
+
 
 Sincerwely yours,
 Pyegorchik.
